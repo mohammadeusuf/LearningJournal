@@ -5,8 +5,9 @@ Learning. Those courses provided valuable insights into advanced topics such as 
 Some useful Links: https://www.youtube.com/watch?v=XkKadPcPFT4&t=6s&ab_channel=GeekyScript
                    https://www.linkedin.com/learning/wordpress-everything-about-plugins/everything-about-wordpress-plugins?u=2223545
                    https://www.youtube.com/watch?v=UT3No6nswz8&t=139s&ab_channel=KevinStratvert
-                   .
-Estimated Hours: 
+                   
+                   
+Estimated Hours:
 3 hours of learning, 3 hours for prac and working on assignment 1.
 
 Content Insights:
