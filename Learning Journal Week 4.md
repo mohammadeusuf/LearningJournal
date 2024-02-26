@@ -1,6 +1,5 @@
 Learning Activities & Resources: 
-I began by researching various options for setting up a local development environment and deploying local sites to production. Instead of Docker/Vagrant, I decided to use XAMMP to setup a virtual machine to host my
-site locally. To gain a better understanding of setting up a local development environment and deploying sites, I watched several YouTube tutorials. In addition to YouTube tutorials, I enrolled in courses on LinkedIn
+I began by researching various options for setting up a local development environment and deploying local sites to production. I decided to use XAMMP to setup a virtual machine to host my site locally. To gain a better understanding of setting up a local development environment and deploying sites, I watched several YouTube tutorials. In addition to YouTube tutorials, I enrolled in courses on LinkedIn
 Learning. Those courses provided valuable insights into advanced topics such as site customization, SEO optimization, security, and troubleshooting. 
 Some useful Links: https://www.youtube.com/watch?v=XkKadPcPFT4&t=6s&ab_channel=GeekyScript
                    https://www.linkedin.com/learning/wordpress-everything-about-plugins/everything-about-wordpress-plugins?u=2223545
