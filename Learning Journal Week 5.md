@@ -10,7 +10,7 @@ Estimated Hours:
 5 hours learning, 1.5 hour practice and trials.
 
 Content Insights:
-Examined several pre-designed themes and their customizing options. I understood the concept of child themes, which allows me to make changes without modifying the main theme. I started working with the Local by Flywheel platform and saw its value in allowing
+I understood the concept of child themes, which allows me to make changes without modifying the main theme. I started working with the Local by Flywheel platform and saw its value in allowing
 local WordPress development environments. Learned about its features and its integration with popular development tools like Git and SSH. Encountered minor challenges during the setup and configuration of Local by Flywheel, such as issues with port conflicts 
 and server configurations but was able to solve them through watching youtube videos.
 
