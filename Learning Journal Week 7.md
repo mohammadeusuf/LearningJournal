@@ -5,11 +5,10 @@ PHP code implementation to add dynamic features to websites. Additionally, I ded
 potential use cases.
 
 Useful Resources:
-
-    PHP Manual: https://www.php.net/manual/en/
-    W3Schools PHP Tutorial: https://www.w3schools.com/php/
-    AWS Lightsail Documentation: https://aws.amazon.com/lightsail/getting-started/
-    Localserver using CMD: https://www.youtube.com/watch?v=IOcsKIARacs&ab_channel=DailyDev
+PHP Manual: https://www.php.net/manual/en/
+W3Schools PHP Tutorial: https://www.w3schools.com/php/
+AWS Lightsail Documentation: https://aws.amazon.com/lightsail/getting-started/
+Localserver using CMD: https://www.youtube.com/watch?v=IOcsKIARacs&ab_channel=DailyDev
 
 Estimated Hours:
 PHP Learning and Practice: 3 hours.
@@ -20,7 +19,7 @@ Content Insights:
 Throughout the week, I gained a deeper understanding of PHP fundamentals, including variable declaration, data types, control structures, and functions. Practical exercises helped strengthen my understanding of PHP concepts, and I applied this knowledge to
 modify website elements and add dynamic functionality. I created a very basic blank site and added php codes to change their dynamics and add features. I gained experience in structuring web projects by organizing reusable components such as headers and 
 footers using PHP includes. Found that it was easy to do this in a local server using separate files for each functions. In WordPress development, I explored advanced theme customization techniques, such as integrating custom PHP code to extend website 
-functionality. Additionally, my research on AWS Lightsail provided valuable insights into its features, such aseasy server setup, scalability, and cost-effectiveness, making it a great option for hosting and deploying our site.
+functionality. Additionally, my research on AWS Lightsail provided valuable insights into its features, such as easy server setup, scalability, and cost-effectiveness, making it a great option for hosting and deploying our site.
 
 Career/Employability/Learning Insights:
 My ability to construct dynamic and interactive web applications has improved as a result of improving my PHP knowledge and using them in practical tasks. Developing websites with PHP has also strengthened my problem-solving abilities and equipped me to take
