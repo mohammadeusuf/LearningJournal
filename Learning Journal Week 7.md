@@ -12,11 +12,9 @@ Useful Resources:
     Localserver using CMD: https://www.youtube.com/watch?v=IOcsKIARacs&ab_channel=DailyDev
 
 Estimated Hours:
-
-    PHP learning and practice: 3.5 hours
-    Research: 1 hour
-    Practical: 2.5 hours
-    
+PHP Learning and Practice: 3 hours.
+Research: 1 Hour
+Practical: 2 hours
    
 Content Insights:
 Throughout the week, I gained a deeper understanding of PHP fundamentals, including variable declaration, data types, control structures, and functions. Practical exercises helped strengthen my understanding of PHP concepts, and I applied this knowledge to
